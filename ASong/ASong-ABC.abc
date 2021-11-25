@@ -1,0 +1,30 @@
+X:1
+T:A song
+%%score { 1 | 2 }
+L:1/4
+Q:1/4=140
+M:3/4
+I:linebreak $
+K:C
+V:1 treble nm="Piano" snm="Pno."
+V:2 bass 
+V:1
+!mp! z3 | z3 | (c3 | B2 d) | c3 | z (B A | c3) | z (d e | d3-) | d3 |$ (c3 | B2 d) | c3 | (f2 e) | %14
+ (e3 | A2 B |!<(! c3 | d2) e!<)! |!f! (f3 | e2 d | e3 |$ A2) B | c3 | z (d e |!>(! d3-) | d3!>)! | %26
+!mp!!8va(! (f'3 | e'2 d' | g'3 |!<(! b2) c' | f'3!8va)!!<)! |$!mf! z (e' f' | d'3-) | d'3 | (c'3 | %35
+ b2 d') | c'3 | z (b a | c'3) | z (d' e' | d'3-) | d'3 |$!8va(! (c'3 | b2 d') | c'3 | (f'2 e') | %46
+ (e'3 | a2 b |"^rit." c'3 | d'3) | c'3- | c'3!8va)! | %52
+V:2
+!p! C, [E,G,C] [E,G,C] | C, [E,G,C] [E,G,C] | C, [E,G,C] [E,G,C] | C, [E,G,C] [E,G,C] | %4
+ A,, [C,E,A,] [C,E,A,] | A,, [C,E,A,] [C,E,A,] | F,, [A,,C,F,] [A,,C,F,] | %7
+ F,, [A,,C,F,] [A,,C,F,] | G,, [B,,D,G,] [B,,D,G,] | G,, [B,,D,G,] [B,,D,G,] |$ %10
+ C, [E,G,C] [E,G,C] | C, [E,G,C] [E,G,C] | A,, [C,E,A,] [C,E,A,] | A,, [C,E,A,] [C,E,A,] | %14
+ F,, [A,,C,F,] [A,,C,F,] | F,, [A,,C,F,] [A,,C,F,] | G,, [B,,D,G,] [B,,D,G,] | %17
+ G,, [B,,D,G,] [B,,D,G,] |!mf! E, [G,B,E] [G,B,E] | E, [G,B,E] [G,B,E] | F, [A,CF] [A,CF] |$ %21
+ F, [A,CF] [A,CF] | D, [F,A,D] [F,A,D] | D, [F,A,D] [F,A,D] | G, [B,DG] [B,DG] | G, [B,DG] [B,DG] | %26
+!p!!8va(! E [GBe] [GBe] | E [GBe] [GBe] | F [Acf] [Acf] | F [Acf] [Acf] | D [FAd] [FAd]!8va)! |$ %31
+!8va(! D [FAd] [FAd] | G [Bdg] [Bdg] | G [Bdg] [Bdg] | C [EGc] [EGc] | C [EGc] [EGc] | %36
+ A, [CEA] [CEA] | A, [CEA] [CEA] | F, [A,CF] [A,CF] | F, [A,CF] [A,CF] | G, [B,DG] [B,DG] | %41
+ G, [B,DG] [B,DG]!8va)! |$!8va(! C [EGc] [EGc] | C [EGc] [EGc] | A, [CEA] [CEA] | A, [CEA] [CEA] | %46
+ F, [A,CF] [A,CF] | F, [A,CF] [A,CF] | G, [B,DG] [B,DG] | G, [B,DG] [B,DG] | [CEGc]3- | %51
+ [CEGc]3!8va)! | %52

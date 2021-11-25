@@ -1,0 +1,15 @@
+<section1>
+!mp! z3 | z3 | (c3 | B2 d) | c3 | z (B A | c3) | z (d e | d3-) | d3 |$ (c3 | B2 d) | c3 | (f2 e) | %14 (e3 | A2 B |!<(! c3 | d2) e!<)!|
+</section1>
+
+<section2>
+!f! (f3 | e2 d | e3 |$ A2) B | c3 | z (d e |!>(! d3-) | d3!>)! | %26
+</section2>
+
+<section3>
+!mp!!8va(! (f'3 | e'2 d' | g'3 |!<(! b2) c' | f'3!8va)!!<)! |$!mf! z (e' f' | d'3-) | d'3 |
+</section3>
+
+<section4>
+(c'3 | %35 b2 d') | c'3 | z (b a | c'3) | z (d' e' | d'3-) | d'3 |$!8va(! (c'3 | b2 d') | c'3 | (f'2 e') | %46 (e'3 | a2 b |"^rit." c'3 | d'3) | c'3- | c'3!8va)! | %52 
+</section4>
